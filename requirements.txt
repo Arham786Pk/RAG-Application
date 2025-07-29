@@ -7,7 +7,7 @@ PyMuPDF
 python-docx
 pypdf
 python-dotenv
-langchain-community
+langchain-community==0.0.30
 unstructured[all-docs]
 pandas 
 beautifulsoup4 
